@@ -1,0 +1,38 @@
+
+body {
+    background-color:rgb(31, 29, 29);
+}
+
+h1 {
+    text-align: center;
+     color: rgb(224, 177, 47);
+}
+h2 {
+
+    text-align: center;
+   color:rgb(236, 208, 131);
+}
+p{
+    color: rgb(245, 245, 245);
+    text-align: center;
+}
+main {
+    
+    background-color: rgb(20, 15, 15);
+
+}
+b{
+
+    color: rgb(224, 177, 47);
+}
+#jojo {
+
+    width: 100%;
+    
+}
+a {
+    font-weight: 900;
+    color: gold;
+}
+
+
